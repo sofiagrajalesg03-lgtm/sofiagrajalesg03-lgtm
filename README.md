@@ -13,11 +13,12 @@ I'm particularly interested in how AI and data science can make healthcare syste
 - 🎯 **Career goal:** Develop data-driven solutions that improve healthcare and medical-industry processes
 - 🌍 **Based in:** Medellín, Colombia
 
+## 🎯 Currently Looking For
 
+AI, Machine Learning, or Data Science internship opportunities where I can contribute to meaningful projects, strengthen my technical skills, and learn from experienced teams.
 
 ## 🤝 Let's Connect
 
-I'm happy to connect with people working in AI, data science, biomedical engineering, and healthcare technology.
 
 [LinkedIn](www.linkedin.com/in/ana-sofia-grajales-a97946358)
 
