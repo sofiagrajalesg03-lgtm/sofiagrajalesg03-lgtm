@@ -1,4 +1,4 @@
-# Hi, I'm a Biomedical Engineering Student Exploring AI & Data Science 👋
+# Hi, I'm a Biomedical Engineering Student Exploring AI & Data Science
 
 I'm a Biomedical Engineering student at **Universidad EIA, Colombia**, passionate about building data-driven solutions at the intersection of **artificial intelligence, machine learning, and healthcare**.
 
